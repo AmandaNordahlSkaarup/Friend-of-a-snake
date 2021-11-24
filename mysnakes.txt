@@ -1,0 +1,2 @@
+
+Snake id: 1. Snake name: Jonathan. Snake type: Mamba. Owner of the snake: 1.
